@@ -1,7 +1,3 @@
-This `README.md` is designed to be professional, clear, and "ready for the community." It explains the hardware, the software dependencies, and provides a clear path from a fresh Pi to a working kiosk.
-
----
-
 # Odoo NFC Attendance Kiosk 🚀
 
 **Turn your Raspberry Pi into a professional, plug-and-play attendance terminal for Odoo.**
@@ -107,9 +103,3 @@ Copyright (c) 2026 [Your Name]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software... (See the [LICENSE](https://www.google.com/search?q=LICENSE) file for the full text).
 
 **Disclaimer**: This software is provided "as is", without warranty of any kind. The author is not responsible for any hardware damage or data loss.
-
----
-
-### What's next?
-
-Would you like me to help you create a **`requirements.txt`** file as well? Even though the script installs everything, having a `requirements.txt` is considered best practice for open-source Python projects.
